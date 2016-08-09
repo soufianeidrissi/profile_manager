@@ -1,2 +1,2 @@
 # profile_manager
-une application web e getion e 
+une application web de gestion de profile 
